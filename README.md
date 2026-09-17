@@ -5,7 +5,9 @@ Repository ini berisi hasil pembelajaran dan implementasi materi Machine Learnin
 ## Penyusun
 
 **Nama:** Angelita Rahmatun Annisa
+
 **NPM:** G1A024067
+
 **Dosen Pengampu:** Ir. Arie Vatresia, S.T., M.T.I., Ph.D., IPP.
 
 ## Sumber Kode
